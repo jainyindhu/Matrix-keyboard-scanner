@@ -1,0 +1,11 @@
+========================================
+4x4 MATRIX KEYBOARD SCANNER SIMULATION
+========================================
+
+Time=45 | Row=1101 | Column=1101 | Key Code=5
+Time=75 | Row=1011 | Column=1011 | Key Code=A
+Time=105 | Row=0111 | Column=0111 | Key Code=F
+
+========================================
+SIMULATION RESULT: PASS
+========================================
